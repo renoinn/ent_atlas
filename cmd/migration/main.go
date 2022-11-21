@@ -10,7 +10,7 @@ import (
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql/schema"
 	_ "github.com/go-sql-driver/mysql"
-    "github.com/renoinn/ent_atlas/ent/migrate"
+	"github.com/renoinn/ent_atlas/ent/migrate"
 )
 
 func main() {
